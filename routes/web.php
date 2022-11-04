@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('admin.dashboard');
 })->name('welcome');
+
+Route::get('applist', function () {
+    return view('admin.applist');
+})->name('applist');
