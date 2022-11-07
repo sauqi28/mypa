@@ -60,7 +60,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar1.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar1.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Robert Hammer <span class="badge badge-default m-l-10 hidden-sm-down">Family</span></p>
                   </td>
                   <td>
@@ -82,7 +82,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar3.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar3.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Orlando Lentz <span class="badge badge-info m-l-10 hidden-sm-down">Google</span></p>
                   </td>
                   <td>
@@ -104,7 +104,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar4.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar4.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Barbara Kelly</p>
                   </td>
                   <td>
@@ -126,7 +126,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar6.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar6.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Brian Swader<span class="badge badge-default m-l-10 hidden-sm-down">Family</span></p>
                   </td>
                   <td>
@@ -148,7 +148,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar7.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar7.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Richard Foos<span class="badge badge-default m-l-10 hidden-sm-down">Family</span></p>
                   </td>
                   <td>
@@ -170,7 +170,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar8.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar8.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Rose Rivera<span class="badge badge-success m-l-10 hidden-sm-down">Work</span></p>
                   </td>
                   <td>
@@ -192,7 +192,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar9.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar9.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Frank Camly</p>
                   </td>
                   <td>
@@ -214,7 +214,7 @@
                     </label>
                   </td>
                   <td>
-                    <img src="assets/images/xs/avatar10.jpg" class="rounded-circle avatar" alt="">
+                    <img src="{{asset('images/xs/avatar10.jpg')}}" class="rounded-circle avatar" alt="">
                     <p class="c_name">Brian Swader<span class="badge badge-default m-l-10 hidden-sm-down">Family</span></p>
                   </td>
                   <td>
