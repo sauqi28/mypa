@@ -148,7 +148,7 @@
                    <li><a href="#">Analytical</a></li>
                  </ul>
                </li>
-               <li class="active">
+               <li class="">
                  <a href="#App" class="has-arrow"><i class="fa fa-th-large"></i><span>Ready App</span></a>
                  <ul>
                    <li><a href="">Production</a></li>
@@ -161,7 +161,7 @@
                <li>
                  <a href="#Widgets" class="has-arrow"><i class="fa fa-puzzle-piece"></i><span>Master</span></a>
                  <ul>
-                   <li><a href="">Operating System</a></li>
+                   <li><a href="/masteros">Operating System</a></li>
                    <li><a href="">Database</a></li>
                    <li><a href="">Framework</a></li>
                    <li><a href="">Program Language</a></li>

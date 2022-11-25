@@ -16,10 +16,12 @@ return new class extends Migration
         Schema::create('tb_master_os_kind', function (Blueprint $table) {
             $table->id();
             $table->integer('master_os_id');
-            $table->string('version');
+            $table->string('osname');
             $table->string('avatar');
             $table->timestamps();
             $table->softDeletes();
+
+            //$table->foreign('master_os_id')->references('id')->on('tb_master_os')->onDelete('cascade');
         });
     }
 
